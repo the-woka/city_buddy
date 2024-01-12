@@ -1,16 +1,8 @@
-# city_buddy
+Member:
 
-A new Flutter project.
+1. Bryan
+2. Lavio Sitanggang
+3. Hana Kamila Naura Yasmin
+4. Adrian Yoris Mbake Woka
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CityBuddy is an AI-powered application that will help you explore a city with much more fun, CityBuddy will help you to find interesting places for you to try. you can find places to eat, tourist attractions, to the type of transportation to take you there. In its development, CityBuddy was created to support the realiziation of Sustainable Development Goals no 8 and no 11, that's Sustainable Cities and Communities also Decent Work and Economic Growth
