@@ -1,7 +1,7 @@
 Member:
 
-1. Bryan
-2. Lavio Sitanggang
+1. Christian Bryan Seputra
+2. Lavio Putera Arya Sitanggang
 3. Hana Kamila Naura Yasmin
 4. Adrian Yoris Mbake Woka
 
