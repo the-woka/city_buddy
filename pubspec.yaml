@@ -54,15 +54,15 @@ dev_dependencies:
 
 flutter_native_splash:
   color: "#2A84FF"
-  color_dark: "#272727"
+  # color_dark: "#272727"
   image: assets\images\splash\logo_white.png
-  image_dark: assets\images\splash\logo_blue.png
+  # image_dark: assets\images\splash\logo_blue.png
 
   android_12:
     color: "#2A84FF"
-    color_dark: "#272727"
+    # color_dark: "#272727"
     image: assets\images\splash\logo_white.png
-    image_dark: assets\images\splash\logo_blue.png
+    # image_dark: assets\images\splash\logo_blue.png
 
   web: false
 
@@ -78,6 +78,7 @@ flutter:
   assets:
     - assets/images/splash/
     - assets/images/on_boarding/
+    - assets/images/welcome/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

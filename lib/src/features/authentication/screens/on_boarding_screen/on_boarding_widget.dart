@@ -1,4 +1,5 @@
 import 'package:city_buddy/src/constants/colors.dart';
+import 'package:city_buddy/src/constants/image_strings.dart';
 import 'package:city_buddy/src/constants/sizes.dart';
 import 'package:city_buddy/src/features/authentication/models/on_boarding_model.dart';
 import 'package:flutter/material.dart';
@@ -17,7 +18,7 @@ class OnBoardingPageWidget extends StatelessWidget {
           image: AssetImage(model.image),
           fit: BoxFit.cover,
           colorFilter: ColorFilter.mode(
-            Colors.black.withOpacity(0.5),
+            Colors.black.withOpacity(0.1),
             BlendMode.darken,
           ),
         ),
@@ -48,6 +49,17 @@ class OnBoardingPageWidget extends StatelessWidget {
                   ],
                 ),
               )),
+          Align(
+            alignment: Alignment.topCenter,
+            child: Container(
+              margin: const EdgeInsets.only(top: 50),
+              child: Image.asset(
+                tSplashIconD,
+                height: 70.0,
+                width: 90.0,
+              ),
+            ),
+          )
         ],
       ),
     );

@@ -15,7 +15,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       theme: TAppTheme.lightTheme,
-      darkTheme: TAppTheme.darkTheme,
+      // darkTheme: TAppTheme.darkTheme,
       themeMode: ThemeMode.light,
       home: SplashScreen(),
     );
